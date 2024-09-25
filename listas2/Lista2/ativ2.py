@@ -12,3 +12,4 @@ elif velocidade_media_carro2 > velocidade_media_carro1:
     print("O segundo carro teve maior velocidade média.")
 else:
     print("Os dois carros tiveram a mesma velocidade média.")
+    

@@ -11,3 +11,4 @@ elif sexo_da_pessoa == "feminino":
         print("Maior de idade")
     else:
         print("Menor de idade")
+        

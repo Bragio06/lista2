@@ -13,3 +13,4 @@ else:
 
 if valor_pago is not None:
     print(f"O valor a ser pago é: R$ {valor_pago:.2f}")
+    

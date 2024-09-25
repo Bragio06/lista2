@@ -12,4 +12,3 @@ elif consumo_km_por_litro >= 8 and consumo_km_por_litro <= 14:
     
 else:
     print(f"O consumo do carro é de {consumo_km_por_litro:.2f} Km/l.Super econômico!")
-

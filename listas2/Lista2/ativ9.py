@@ -10,5 +10,3 @@ if sexo_da_pessoa == "homen":
 else:
     calorias_ideais = 665 + (9.6 * peso_da_pessoa) + (1.8 * altura_da_pessoa_em_cm) - (1.7 * idade_da_pessoa)
     print(f"O valor ideal de calorias diárias para as mulheres é: {calorias_ideais} calorias")
-
-    

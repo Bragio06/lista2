@@ -13,3 +13,4 @@ else:
         resultado = "Reprovado por faltas e por média"
 
 print(resultado)
+

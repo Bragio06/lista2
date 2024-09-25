@@ -14,3 +14,4 @@ else:
         duracao_minutos += 60
 
     print(f"Duração do jogo: {duracao_horas} hora(s) e {duracao_minutos} minuto(s)")
+    

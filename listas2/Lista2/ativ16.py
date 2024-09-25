@@ -17,3 +17,4 @@ if 100 <= numero <= 999:
         print("O número informado não satisfaz as condições.")
 else:
     print("Número fora do intervalo de três dígitos.")
+    
